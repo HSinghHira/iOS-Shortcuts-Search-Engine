@@ -5794,10 +5794,12 @@ span.ad {
     position: relative
 }
 
-.button {background-image: url(../fav.png);
+.button {
+	background-image: url(../fav.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 20px;
     cursor: pointer;
     padding: 0px 0px 0px 22px;
-    position: relative;}
+    position: relative;
+}
