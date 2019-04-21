@@ -5794,7 +5794,7 @@ span.ad {
     position: relative
 }
 
-.button {background-image: url(/fav.png);
+.button {background-image: url(../fav.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 20px;
