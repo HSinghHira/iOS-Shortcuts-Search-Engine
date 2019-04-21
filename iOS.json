@@ -17,7 +17,11 @@
     "Version" : "1.1",
     "Modified" : "April 21st, 2019",
     "Des" : "This Shortcut is just to submit a Website i.e. to be add in Shortcut Searcher.",
-    "Notes" : "Initial Release",
+    "Notes" : {
+"1.0":"Initial release",
+"1.1":"Bug fix"
+
+},
     "URL" : "#",
     "Release" : "April 21st, 2019"
   }
