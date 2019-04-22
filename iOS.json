@@ -5,6 +5,17 @@
   "Developer" : "Harman Singh Hira",
   "Email" : "jatthira@gmail.com",
   "dURL" : "hsinghhira.me",
+  "AS2SS" : {
+    "Version" : "1.1",
+    "Modified" : "April 21st, 2019",
+    "Des" : "This Shortcut is just to submit a Website i.e. to be add in Shortcut Searcher.",
+    "URL" : "#",
+    "Release" : "April 21st, 2019",
+    "Notes" : {
+      "1.1" : "Bug fix",
+      "1.0" : "Initial release"
+    }
+  },
   "TAL" : {
     "Version" : "2.2",
     "Modified" : "April 19th, 2019",
@@ -13,16 +24,14 @@
     "URL" : "https://www.icloud.com/shortcuts/f96e534b805d47138e10b579e7c895c9",
     "Release" : "April 18, 2019"
   },
-  "AS2SS" : {
-    "Version" : "1.1",
-    "Modified" : "April 21st, 2019",
-    "Des" : "This Shortcut is just to submit a Website i.e. to be add in Shortcut Searcher.",
+  "SS" : {
+    "Version" : "1.0",
+    "Modified" : "April 22nd, 2019",
+    "Des" : "This Shortcut will let you search any shortcut on variuos websites suchbas Routine Hub, Share Shortcut, etc.",
+    "URL" : "https://www.icloud.com/shortcuts/d5f2539838a2414a8226a9b8d8fd125f",
+    "Release" : "April 22nd, 2019",
     "Notes" : {
-"1.0":"Initial release",
-"1.1":"Bug fix"
-
-},
-    "URL" : "#",
-    "Release" : "April 21st, 2019"
+      "1.0" : "Initial release"
+    }
   }
 }
