@@ -1,6 +1,6 @@
 {
   "Instagram" : "instagram.com/HSinghHira",
-  "FB" : "fb.me/HSinghHira",
+  "FB" : "www.facebook.com/HSinghHira",
   "Blog" : "ultimatetech.org",
   "Developer" : "Harman Singh Hira",
   "Email" : "jatthira@gmail.com",
@@ -17,21 +17,21 @@
     }
   },
   "TAL" : {
-    "Version" : "2.2",
-    "Modified" : "April 19th, 2019",
+    "Version" : "3.1",
+    "Modified" : "April 26th, 2019",
     "Des" : "It is a simple which helps Tinder users for Auto liking all the poeple on their Tinder.\nJust open Tinder in Safari and run this Shortcut.",
-    "Notes" : "Better Script Installed",
-    "URL" : "https://www.icloud.com/shortcuts/f96e534b805d47138e10b579e7c895c9",
+    "Notes" : "Redesigned framework",
+    "URL" : "https://www.icloud.com/shortcuts/1adbb77e7e894ebfb62299bbfed5d804",
     "Release" : "April 18, 2019"
   },
   "SS" : {
-    "Version" : "1.0",
-    "Modified" : "April 22nd, 2019",
+    "Version" : "2.0",
+    "Modified" : "April 26th, 2019",
     "Des" : "This Shortcut will let you search any shortcut on variuos websites suchbas Routine Hub, Share Shortcut, etc.",
-    "URL" : "https://www.icloud.com/shortcuts/d5f2539838a2414a8226a9b8d8fd125f",
+    "URL" : "https://www.icloud.com/shortcuts/0d4d70439d834410a17ca02fa2139406",
     "Release" : "April 22nd, 2019",
     "Notes" : {
-      "1.0" : "Initial release"
+      "1.0" : "Redesigned framework"
     }
   }
 }
