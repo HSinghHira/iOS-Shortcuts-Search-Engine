@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Yes;;;
+ORG:Localisation (BackDes);
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:;No;;;
+ORG:Localisation (BackDes);
+PHOTO;ENCODING=b:
+END:VCARD
